@@ -25,7 +25,7 @@ python quality_corpus.py -l [language] -f [file]
 ```
 
 ### Parameters:
-- `-l` / `--language` : Corpus language (`en`, `es`, `ca`).
+- `-l` / `--language` : Corpus language (`en`, `es`, `ca`, `qu`).
 - `-f` / `--file` : Path to the text corpus file.
 
 ### Example execution:
